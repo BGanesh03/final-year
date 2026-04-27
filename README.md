@@ -296,6 +296,7 @@ Inference Phase (in app):
 | `scipy` | ≥ 1.11.0 | Statistical features (kurtosis, skew) |
 
 Install all with:
+
 ```bash
 pip install -r requirements.txt
 ```
